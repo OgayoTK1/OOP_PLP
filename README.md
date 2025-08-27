@@ -1,5 +1,6 @@
-Superhero Class Program
-Overview
+**Superhero Class Program**
+
+**Overview**
 This Python program implements a class hierarchy for superheroes, demonstrating key Object-Oriented Programming (OOP) concepts as part of the "Design Your Own Class" and "Polymorphism Challenge" assignments. The program defines a base Superhero class and three derived classes (FlyingHero, Speedster, Gadgeteer) to showcase inheritance, encapsulation, and polymorphism.
 Purpose
 The program fulfills two assignments:
